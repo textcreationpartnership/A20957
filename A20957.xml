@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preparation to suffer for the Gospell of Iesus Christ. Or, A most Christian exercise full of comfort and consolation for these present times. Written in French by the learned, and zealous, Peter Du Moulin, Profresor of Diuinitie, in the Vniuersitie of Sedan</title>
+            <author>Du Moulin, Pierre, 1568-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20957</idno>
+            <idno type="STC">STC 7336</idno>
+            <idno type="STC">ESTC S118563</idno>
+            <idno type="EEBO-CITATION">99853770</idno>
+            <idno type="PROQUEST">99853770</idno>
+            <idno type="VID">19165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 577:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preparation to suffer for the Gospell of Iesus Christ. Or, A most Christian exercise full of comfort and consolation for these present times. Written in French by the learned, and zealous, Peter Du Moulin, Profresor of Diuinitie, in the Vniuersitie of Sedan</title>
+                  <author>Du Moulin, Pierre, 1568-1658.</author>
+                  <author>Darcie, Abraham, fl. 1625.</author>
+               </titleStmt>
+               <extent>[8], 80 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. M[athews] for Robert Mylbourne, and are to bee sold at his shop in the great south doore of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Translator's preface signed: Abraham Darcie.</note>
+                  <note>Imperfect: leaves F7,8 lacking, supplied from another copy.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Consolation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19165:1"/>
+            <pb facs="tcp:19165:1"/>
+            <p>A PREPARATION TO SVFFER FOR the GOSPELL of IE<g ref="char:EOLhyphen"/>SVS CHRIST.</p>
+            <p>
+               <hi>OR,</hi> A moſt Chriſtian Exerciſe full of Comfort and conſolation for <hi>theſe preſent times.</hi>
+            </p>
+            <p>Written in French by the Learned, and zealous, PETER DV MOVLIN, Profeſſor of Diuinitie, in the Vniuerſitie of <hi>Sedan.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>A. M.</hi> for <hi>Robert Mylbourne,</hi> and are to bee ſold at his Shop at the great South doore of <hi>Pauls.</hi> 1623.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:19165:2"/>
+            <head>TO THE RIGHT HONORABLE, TRV<g ref="char:EOLhyphen"/>LY NOBLE, AND MOST EXCELLENT LORDS. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ODOWICK, Duke of RICHEMOND, and of LENOX, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>AMES, Lord Marquis of HAMLETON, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ILLIAM, Earle of PEMBROOKE, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ENRIE, Earle of SOVTHAMTON, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OBERT, Earle of LEICESTER, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OHN, Earle of HOLDERNESSE, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>AMES, Earle of CARLISLE, &amp;c. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r OLIVER St. IOHN, Viſcount <hi>Grandiſon.</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>VDLEY Lord NORTH, Baron of <hi>Catelage.</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RTHVR Lord CHICHESTER, Ba: <hi>Belfast.</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eligious Peeres of ENGLAND Mirror of Honour and Vertue, Noble Patrons, and Paternes of good Endeauours, True Pillars, and <hi>vpholders of Chriſts true Doctrine, and the comfort of the Church of God.</hi> BRAHAM DARCIE heartily wiſheth to <hi>their Illuſtrious Perſons all Jnternall, Externall, and Eternall Happineſſe and Prosperitie in the holy TRINITIE.</hi>
+            </head>
+            <opener>
+               <pb facs="tcp:19165:2"/>
+               <salute>
+                  <hi>ILLVSTRIOVS LORD<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F in this vicious age it a rare thing to ſee an <hi>E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ample</hi> of <hi>Vertue,</hi> that your Noble Perſons m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> needs be much more ra<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeeing it comprehende<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with great Excellencie and Perfection all t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Vertues</hi> in one, which the corruption of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent age rendreth most remarkeable; b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Eminencie of your <hi>High Callings,</hi> a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nobilitie of your <hi>Illuſtrious Diſcen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> makes it more admirable. For if an inund<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion of vices, (the dangerous contagions
+<pb facs="tcp:19165:3"/> Courts) where many ſeducing obiects of euils <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re often preſented rather to Great, then In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eriour Perſons, haue not beene able to de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raue or viciate the vnspotted Sinceritie <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Noble and Conſtant hearts. This is <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Example almoſt without Example: ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auded of thoſe that know your <hi>Names,</hi> more <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dmired of thoſe that know your <hi>Perſons;</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, Commended and Extolled euen by your <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery Enemies. Amongst your many Rare <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertues, <hi>PIETIE,</hi> (which is and ought to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee the chiefest, as that which diſſwadeth vs <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om all worldly and tranſitory Pleaſures and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffectations, makes vs approach neere to <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>OD,</hi> to bee partakers of that incompre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſible Ioy, Comfort, and euerlaſting Hap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe, allotted only to <hi>Chriſts Elect</hi>) ſhines <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith an excellent ſplendor through your whole Noble Conuerſations. <hi>GOD,</hi> who is the
+<pb facs="tcp:19165:3"/> onely Giuer, and true Rewarder of <hi>Vertu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> hath ſo adorned and enlightned you, with th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cleare and Radiant Beames of his <hi>Goſpel</hi> that no waues of Idolatrous temptations ſha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bee able to ſhake the Foundation of your tru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grounded Faith; built, not vpon the Sand o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> humane Tradition, and Inuention, that th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leaſt winde remooues; but on the firme Rock of Diuine Perſeuerance, and Conſtancie which no ſuperſtitious ſtorme can ouerwhelme<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That holy Prouidence which keepes you ſti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pure and immaculate, hath bleſt and preſer<g ref="char:EOLunhyphen"/>ued you from time to time, from all perill<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and dangers, and hath endued you with hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heauenly Fauours and Graces, which are eui<g ref="char:EOLhyphen"/>dent demonſtrations of greater Bleſsings to come heereafter, Making the people of <hi>GOD</hi> hope, you are thus preſerued, to be true friends of his <hi>Church,</hi> and the terrour of her Ene<g ref="char:EOLhyphen"/>mies:
+<pb facs="tcp:19165:4"/> Ouer which you will bee tryumphant, <hi>CHRIST</hi> making your enterpriſes pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>perous, and your Noble deſignes victorious: <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or which I am euer ready to ſend vp my zea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Prayers to <hi>GOD</hi> for all happie ſuc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe. In teſtimony whereof, I humbly tender <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd proſtrate to your <hi>Honours</hi> this Excel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent and healthfull <hi>Preparation,</hi> Dedicated <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ikewiſe to the moſt Noble, Sincere, and Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Princes, and Lordes of <hi>FRANCE,</hi> True and Zealous Warriors for <hi>CHRISTS</hi> cauſe.</p>
+            <closer>
+               <signed>Your Graces and Honours moſt humbly Deuoted. ABRAHAM DARCIE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:19165:4"/>
+            <head>To the moſt Illuſtrious, H. &amp; B. of <hi>Roan,</hi> Princes of <hi>Leon.</hi> FRED. Prince of <hi>Sedan.</hi> H. of <hi>Tri<g ref="char:EOLhyphen"/>mouille,</hi> Prince of <hi>Talmont.</hi> N. Duke of <hi>Seuilly.</hi> AMORI. Marquis of <hi>La Mouſſay Mon. Le Vidame de Chartres.</hi> N. Marq. of <hi>La Force.</hi> ST. Marq. of <hi>Duras.</hi> CL. Earle of <hi>Montgomery.</hi> LE. E. of <hi>La Suze.</hi> GASP. E. of <hi>Chaſtillion.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Illuſtrious Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N theſe tottering and vncertaine times, when the loue and respect of the world, and the terrour of perſecutions, and tribulations, makes many look back, that haue laid faſt hold on the Plough of true Religion. I thought it moſt expedient to ſalute you with this Treatiſe of a ſecure and ſafe Preparation againſt the aſſaults of malicious hearts, and attempting hands, that by the heroicall ver<g ref="char:EOLhyphen"/>tues of Chriſtian patience, and conſtancy, you may be able to reſiſt whatſoeuer impious force or violence, which would faine make a breach in your Noble, Religious, and Zealous hearts.
+<pb facs="tcp:19165:5"/> This I haue done, not out of any doubt or feare of your firme and ſetled reſolutions; but onely to giue you to vnderſtand how farre your Il<g ref="char:EOLhyphen"/>luſtrious perſons are interreſſed in the daily and continual praiers of the whole Church, for your happy and victorious ſucceſſe; and that whenſoeuer you vouchſafe but to read this di<g ref="char:EOLhyphen"/>uine Diſcourſe, your Lordſhips may be put in mind of the zealous and affectionate prayers of Gods people, who hauing made my vnwor<g ref="char:EOLhyphen"/>thy ſelfe their generall mouth, and voyce, I doe not a little reioyce of the fit opportunity I haue herein, to manifeſt vnto your Lordſhips mine owne particular humble loue and affection, which being grounded vpon the many noble and apparant vertues of your Lordſhips, and innumerable fauours and benefits imparted to me without deſert, deſires yet in ſo ſmall and ſlender a teſtimony as this, to make known the large extent of my wiſhes and deſires, that God may accumulate vpon your Lordſhips in ſo holy and iuſt a cauſe, all auſpicious and wi<g ref="char:EOLhyphen"/>ſhed ſucceſſe, as he, whom all your Lordſhips ioyntly, and each of you in particular, will euer reſt</p>
+            <closer>
+               <signed>Your Lordſhips moſt bounden and deuoted, P. DV MOVLIN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:19165:5"/>
+            <head>A PREPARATION to Sufferings, for the Goſpell of IESVS CHRIST. <hi>A Chriſtian Exerciſe full of</hi> com<g ref="char:EOLhyphen"/>fort and conſolation, for theſe <hi>preſent Times.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Vrely he ſpake not ill, that ſayd, how Chriſtian Exerciſe conſiſted in two things; To doe well, and to ſuf<g ref="char:EOLhyphen"/>fer much: For God will bee glorified, not onely by our acti<g ref="char:EOLhyphen"/>ons,
+<pb n="2" facs="tcp:19165:6"/> but alſo by our Sufferings; by which we manifeſt our ver<g ref="char:EOLhyphen"/>tue and zeale, as much, or more then by our Actions. And ſo the holy Scriptures perſwade vs, the rather to acknowledge the importance of theſe duties, in that they ſo often exhort vs both to the one, and to the o<g ref="char:EOLhyphen"/>ther. Our Sauiour Chriſt alſo was not content to giue vnto his Diſciples neceſſarie Inſtru<g ref="char:EOLhyphen"/>ctions for well liuing, but fur<g ref="char:EOLhyphen"/>ther hee premonifies and fore<g ref="char:EOLhyphen"/>warnes them with a carefull Aduertiſement, againſt the di<g ref="char:EOLhyphen"/>uers aſſaults and combats they were to ſuffer, through the ha<g ref="char:EOLhyphen"/>tred of the world, encouraging
+<pb n="3" facs="tcp:19165:6"/> them to the faſt-hold of Con<g ref="char:EOLhyphen"/>ſtancie, vnder the aſſured hope of eternall ſaluation, the which hee doeth expreſſely by theſe words here; <hi>You ſhall be hated of all men for my Names ſake; but hee that holds out to the end, the ſame ſhall be ſaued.</hi>
+            </p>
+            <p>In theſe words, he does not apply himſelfe onely to the A<g ref="char:EOLhyphen"/>poſtles, but in their perſons to all the faithfull, the which hee notifies, by declaring, that the ſubiect of this hatred, ſhall bee the profeſsion of his Name: as wee are in like manner ad<g ref="char:EOLhyphen"/>uertiſed in other places; <hi>That by many afflictions we muſt attaine to the kingdome of heauen, Acts</hi> 14.
+<pb n="4" facs="tcp:19165:7"/> and that all thoſe which will in pietie, according to Ieſus Chriſt, <hi>muſt ſuffer perſecution,</hi> 2. <hi>Tim.</hi> 3. the which the faithfull haue ſo clearely prooued to bee true by experience, that wee need not co<g ref="char:cmbAbbrStroke">̄</g>firm it by examples. Chriſt ſayes not ſimply, You ſhall be <hi>expoſed,</hi> but which is more, <hi>hated:</hi> for there were ma<g ref="char:EOLhyphen"/>ny ſects of Philoſophers which contradicted, but not hated them. And in all Faculties and Sciences, wee ſee Doctors diſ<g ref="char:EOLhyphen"/>pute one againſt another with much paſsion and zeale, both in ſpeech and writing, and yet without violence: but as for the faithfull, Chriſt ſaith vnto
+<pb n="5" facs="tcp:19165:7"/> them, <hi>You ſhall bee hated.</hi>
+            </p>
+            <p>And as hatred is the ſource and ſpring of the wickedeſt af<g ref="char:EOLhyphen"/>fections, and actions (of enuie, choller, detraction, iniurie, ex<g ref="char:EOLhyphen"/>probation, perſecution and cru<g ref="char:EOLhyphen"/>eltie) ſo in affirming that wee ſhall be hated, it intimates vnto vs, that the combates &amp; aſſaults which ſhall bee vrged vpon vs by the world, are of no ſmall difficultie. For what pernitious deſigne is there, which hatred doth not nurſe? what outrage does not that enter into? what is it fed and ſuſtained withall, but with ruine, blood, and ſlaughter? <hi>Her throat is an open ſepulchre, Rom.</hi> 3. Shee vſeth her
+<pb n="6" facs="tcp:19165:8"/> tongue fraudulently: <hi>vnder her lips there is the venom of the Aſpe, her mouth is full of curſing &amp; bit<g ref="char:EOLhyphen"/>terneſſe, her feet are ſwift to ſhed blood, deſtruction and miſery is in her wayes, ſhe knowes not the way of peace.</hi>
+            </p>
+            <p>And queſtionleſſe, to the end wee might not ſuppoſe, how this hatred of the world againſt vs, is but ſlight and triuiall, <hi>Ie<g ref="char:EOLhyphen"/>ſus Chriſt</hi> deſcribes it vnto vs, to bee ſo cruell and implaca<g ref="char:EOLhyphen"/>ble, that getting the maſterie of the Senſes, and changing reaſon into rage, it will violate all humanitie, all reſpects and bands of nature, &amp; with more horrible and tragicall barba<g ref="char:EOLhyphen"/>riſme,
+<pb n="7" facs="tcp:19165:8"/> embrew her handes in the blood of her neareſt Allies: For the brother ſhall deliuer vp his brother to death, the father the childe; the children ſhall riſe vp againſt their fathers and mothers, and cauſe them to be put to death: and in reſpect of others, what will ſhee not at<g ref="char:EOLhyphen"/>tempt? Shee is ſo furious, that ſhe will deſtroy Prouinces, put Cities to the ſacke, and whole Eſtates to aſhes, vnder a paſsi<g ref="char:EOLhyphen"/>on to ſet therein on a flaming fire, the Church of God: ſhee will make the fields and riuers looke redde with the blood of the poore and faithfull Saints, and fill the world with cruell
+<pb n="8" facs="tcp:19165:9"/> inflictions, with prodigious maſſacres, with horrible mur<g ref="char:EOLhyphen"/>ders of an infinite number of innocent perſons, without a<g ref="char:EOLhyphen"/>ny detection of iuſt crime, without regard to ſexe, age, or condition: ſhee will omit no fraud, malice, perfidiouſneſſe, nor periury; ſhee will hold for a maxime of conſcience, to make conſcience of nothing, eſteem it for an article of faith, to keepe no faith at all; vnder pretext of Religion, to mani<g ref="char:EOLhyphen"/>feſt nothing but irreligion; ſhe peruerts not onely the will, but the vnderſtanding, and makes frantick &amp; mad. For, as when a great fire is kindled, it ſends
+<pb n="9" facs="tcp:19165:9"/> vp on high a groſſe thicke va<g ref="char:EOLhyphen"/>pour: In like manner when this hatred is inflamed in the heart, it ſends vp into the intel<g ref="char:EOLhyphen"/>lector vnderſtanding, an ob<g ref="char:EOLhyphen"/>ſcure and duskiſh fume, which doth obfuſcate reaſon; and ta<g ref="char:EOLhyphen"/>king away the true vſe therof, makes a man degenerate into a ſauage and cruell beaſt.</p>
+            <p>And though we ſee not this hatred alwaies to breake forth in bloody effects, it is, becauſe God, (who by the inuiſible chaines of his omnipotent po<g ref="char:EOLhyphen"/>wer, hampers and ſhackles the malignant) depreſſeth them. So that when the enemies of the Church permit her to liue
+<pb n="10" facs="tcp:19165:10"/> in ſome quiet and repoſe, and doe not openly perſecute her, it growes not through the de<g ref="char:EOLhyphen"/>fect of will, but of power. This hatred is then no more extinguiſhed, then the heate of the coale vnder aſhes, or the venome of a Serpent, congea<g ref="char:EOLhyphen"/>led and mortified by frigiditie. Shee is alwayes liuing in the world; and when ſhe openly diſcouers not her ſelfe, ſhe ſets and couers, cauſing matters to hatch vpon all occaſions, wher<g ref="char:EOLhyphen"/>of theſe preſent ſeaſons yeelds vs a liuely proofe and teſti<g ref="char:EOLhyphen"/>monie.</p>
+            <p>And which moreouer may ſeeme more ſtrange, Chriſt
+<pb n="11" facs="tcp:19165:10"/> ſayes not vnto vs, you ſhall bee hated of ſome ſpeciall men, but of all; that is to ſay, of all ſuch as doe not receiue the veri<g ref="char:EOLhyphen"/>tie and puritie of the Goſpell; this ſignifying, that we ſhould not haue a part, but the whole world exaſperated together a<g ref="char:EOLhyphen"/>gainſt vs. And though it bee diuided into different Affecti<g ref="char:EOLhyphen"/>ons, Factions, and Religions, and that one Nation is an ene<g ref="char:EOLhyphen"/>mie to another; and that there are likewiſe ſome, which mag<g ref="char:EOLhyphen"/>nifie themſelues in the Title of Chriſtians, yet they will euer appeare in this poynt to hate vs; they will vnite to diſſipate vs, and aſſemble, to worke our
+<pb n="12" facs="tcp:19165:11"/> extirpation. So the <hi>Phariſees,</hi> and <hi>Sadduces</hi> accorded to op<g ref="char:EOLhyphen"/>poſe themſelues ioyntly to <hi>Ie<g ref="char:EOLhyphen"/>ſus Christ; Herode</hi> and <hi>Pilate,</hi> who were enemies, grew re<g ref="char:EOLhyphen"/>conciled to crucifie him. And euen ſo the Kings of the earth, (though in their Eſtates they haue contrary deſignes) yet wil they take the ſame counſell, the ſame reſolution, and the ſame correſpondencie, to fauour <hi>An<g ref="char:EOLhyphen"/>tichriſt,</hi> and to perſecute the children of God. So as the ac<g ref="char:EOLhyphen"/>cord of the world, is nothing but a conſpiracie againſt the Church, and peace amongſt the wicked, nothing but warre a<g ref="char:EOLhyphen"/>gainſt God and his Saints.</p>
+            <pb n="13" facs="tcp:19165:11"/>
+            <p>The occaſion of this hatred againſt the faithfull, is the meer profeſsion of the Name of <hi>Chriſt,</hi> although oftentimes the pretext be otherwiſe. For they which liue out of this holy pro<g ref="char:EOLhyphen"/>feſſion, are ſo far from being hated of the world, that on the contrary, they are beloued and cheriſhed, the world permit<g ref="char:EOLhyphen"/>ting them to liue in all licenti<g ref="char:EOLhyphen"/>ouſneſſe and exceſſe: For if the faithfull would imitate them in the errour of beliefe, and peruerſeneſſe of life, the world would change the hatred they beare towards them, to all fa<g ref="char:EOLhyphen"/>uour and loue,</p>
+            <p>It is a very ſtrange thing, that
+<pb n="14" facs="tcp:19165:12"/> this name of <hi>Chriſt,</hi> ſo ſweet &amp; amiable, ſhould be ſo odious: this Name more odoriferous, then ſpread perfumes; this Name, which is not onely a good odour in the noſtrills of God, in himſelfe, but alſo for vs; making all acceptable to God which wee preſent vnto him, our Prayers or Affecti<g ref="char:EOLhyphen"/>ons, our workes, and our per<g ref="char:EOLhyphen"/>ſons. But as wee ſay, that the <hi>Tygers</hi> enter into rage, vpon the ſent of any <hi>Aromaticke druggs;</hi> ſo in like manner the world becomes ſtarke mad, vpon the very odour of the Name of <hi>Chriſt.</hi> By this Name, Diſeaſes haue been cured, the deafe haue
+<pb n="15" facs="tcp:19165:12"/> heard, the blind haue ſeene, the dead men haue been raiſed vp. By this Name, wicked ſpirits haue been expelled, Hell hath trembled thereat, Death was deſtroyed, God appeaſed, Para<g ref="char:EOLhyphen"/>diſe laid open, and all Beleeuers ſaued. This Name is venerable among the Angels, adored of the Bleſſed, exalted aboue any other name that can be nomi<g ref="char:EOLhyphen"/>nated in this world, or in the world to come. To this Name euery knee muſt bow, both of thoſe aboue in heauen, of thoſe on the earth, and of thoſe vn<g ref="char:EOLhyphen"/>der the earth; and euery tongue ſhall confeſſe, that IESVS is the Lord, ſitting in glory with God
+<pb n="16" facs="tcp:19165:13"/> the Father. This is the glorious name, by which, and for which all things were, all creatures ſubſiſt, haue their being, their life, their operations, and their good: and yet neuertheleſſe it is hated of men, after the cu<g ref="char:EOLhyphen"/>ſtome of many barbarous Na<g ref="char:EOLhyphen"/>tions, who at the riſing of the Sunne, ſhoote their Ar<g ref="char:EOLhyphen"/>rowes againſt it with a thou<g ref="char:EOLhyphen"/>ſand maledictions, becauſe they doe but feele the ardour and heate of it at high noone day; not conſidering, that without the benefit of his beames and vertue they could not liue. And euen ſo the world ſhoote the darts of their hatred and mad<g ref="char:EOLhyphen"/>neſſe
+<pb n="17" facs="tcp:19165:13"/> againſt <hi>Chriſt,</hi> who is the Sonne of Righteouſnes, when they apprehend but the ardour of perſecution, or elſe ſuppoſing that <hi>Christ</hi> brings with him ſome Inconuenience; whereas indeed hee is the true ſunne of all happines, and that without his light and ſpecial grace, there is nothing but darknes, miſery, the ſhaddowes of death, and death eternall.</p>
+            <p>Perſons empoyſoned with this hatred againſt the name of <hi>Chriſt,</hi> are of two ſorts: ſome be thoſe which make no pro<g ref="char:EOLhyphen"/>feſsion at all of him, but openly deteſt him, as Paynims, Iewes, Turkes, and miſcreants. The
+<pb n="18" facs="tcp:19165:14"/> other haue ſome knowledge of him; but yet they are erronious Chriſtians, mingling the word of God with falſe Doctrines, Superſtitions, Inuentions, and humane Traditions, ſuch as be the Heretikes, and adherents to <hi>Antichriſt.</hi> And though this lat<g ref="char:EOLhyphen"/>ter ſort, and their beleeuers, a<g ref="char:EOLhyphen"/>uouch not publikly any hatred to the name of <hi>Chriſt;</hi> yet they ſhew it by plaine and euident effects: as <hi>Saul</hi> before his con<g ref="char:EOLhyphen"/>uerſion, perſecuted the Church of God, though his intention and meaning was no wayes ſuch: And which is much to be lamented, deluded, and abuſed Chriſtians, ſhewe oftentimes
+<pb n="19" facs="tcp:19165:14"/> more rancorous &amp; implacable hatred againſt the true faithful, then thoſe people themſelues, which hold the Goſpel in abo<g ref="char:EOLhyphen"/>mination, and ſuppoſe they beare a great zeale to <hi>Ieſus Chriſt,</hi> when they perſecute him in his members; and that they offer an acceptable ſacrifi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e vn<g ref="char:EOLhyphen"/>to God, when they put his chil<g ref="char:EOLhyphen"/>dren to death.</p>
+            <p>If it be wonderfull therfore, that this name of <hi>Chriſt,</hi> is ha<g ref="char:EOLhyphen"/>ted of men, is it not likewiſe a very ſtrange thing, that true Chriſtians ſhould be hated one of another? For though they haue the moſt principall rights in the citie of this world, yet
+<pb n="20" facs="tcp:19165:15"/> are they intreated as ſtrangers: they loue all the world, and all the world hates them; they ſeek after peace, &amp; euery one makes warre againſt them; they are deteſted of their enemies, and yet they pray for them. They are the honeſteſt men of all o<g ref="char:EOLhyphen"/>thers, and yet are perſecuted, then the moſt wicked ſort; they liue in the fleſh, and yet not ac<g ref="char:EOLhyphen"/>cording to the fleſh; they con<g ref="char:EOLhyphen"/>uerſe on earth, and are citizens of heauen; they ſubmit them<g ref="char:EOLhyphen"/>ſelues to Lawes in their obedi<g ref="char:EOLhyphen"/>ence, and by their holy life, ſur<g ref="char:EOLhyphen"/>mount and excell them; others curſe them, and they bleſſe; they are puniſhed, and tormented
+<pb n="21" facs="tcp:19165:15"/> as malefactors, and men would not haue them confeſſe and ac<g ref="char:EOLhyphen"/>knowledge who they are: their good names are ſlandered, and depraued, and yet wee are en<g ref="char:EOLhyphen"/>forced to commend their inte<g ref="char:EOLhyphen"/>gritie: mortall enmitie is put in practiſe againſt them, and no iuſt reaſon can bee rendred thereof: men are ignorant of their Profeſsion, and notwith<g ref="char:EOLhyphen"/>ſtanding condemne it. In a word, looke what the ſoule is to the body, the ſame are the faithfull to the world; the ſoule is diſperſed ouer all the mem<g ref="char:EOLhyphen"/>bers of the body, and the faith<g ref="char:EOLhyphen"/>full ouer the ſeuerall parts of the earth: the ſoule dwelleth
+<pb n="22" facs="tcp:19165:16"/> in the body, yet is not of the body: and ſo the faithfull dwel in the world, yet are not of the world: the ſoule loueth the body, though the body warre and conteſt with it; and the faithfull loue all the world, though all the world be oppo<g ref="char:EOLhyphen"/>ſite to them: the ſoule is en<g ref="char:EOLhyphen"/>cloſed within the body, as within a gaole or priſon, and yet ſhe preſerues the bodie; and the faithfull are impriſoned, and ſhut vp in this world, as within a priſon, and yet they preſerue &amp; ſupport the world, by reaſon that for their ſakes, God forbeares to deſtroy it; and when the number of the faith<g ref="char:EOLhyphen"/>full
+<pb n="23" facs="tcp:19165:16"/> is accompliſhed, then the world ſhall ende and finiſh. The ſoule is incomparably more excellent then the body, and the faithfull of infinite more value, then the world: The ſoule is of heauen, and the body of the earth; ſo are all the faithfull heauenly, whereas the body is wholly earthly, and terreſtriall: The immortall ſoule dwelleth as a ſtranger within our mortall tabernacle; and ſo the faithfull haue but a trauailing life in this corrupti<g ref="char:EOLhyphen"/>ble world, attending moſt bleſ<g ref="char:EOLhyphen"/>ſed and happie immortalitie: The ſoule being depriued of bodily delights, is made the bet<g ref="char:EOLhyphen"/>ter
+<pb n="24" facs="tcp:19165:17"/> and more perfect: and ſo the faithful rudely intreated by the world, doe profit the more in the exerciſe of vertue.</p>
+            <p>From whence proceedes it then, that they are ſo hated of the world? why from this that they are not of the world: for if they were of the world, the world would loue them, be<g ref="char:EOLhyphen"/>cauſe euery thing loues it's like. But in that they are diſtingui<g ref="char:EOLhyphen"/>ſhed, and ſeparated from the world, by the profeſſion of the Goſpell, which a doctrine ſo ſweet, amiable, and healthfull, comprehending, and expoſing the promiſes of the grace of God, and of life eternall, pro<g ref="char:EOLhyphen"/>pounding
+<pb n="25" facs="tcp:19165:17"/> ſuch ſacred, and ad<g ref="char:EOLhyphen"/>mirable miſteries, ſuch perfect, and diuine Inſtructions, how comes it to be thus hated? Firſt, in that the world is ignorant of it: for thoſe that truly know it, cannot but loue, and embrace it, and ſo of violent preſecutors, they many times become ar<g ref="char:EOLhyphen"/>dent and zealous Profeſſours. The reaſon of this ignorance is, becauſe it is altogether ſpiri<g ref="char:EOLhyphen"/>tuall &amp; celeſtiall, and the world earthly and carnall, which can<g ref="char:EOLhyphen"/>not beleeue, nor apprehend it, by reaſon of the ſublimitie and excellency thereof, no more then the beaſts can be capable of the diſcourſe of Reaſon. To
+<pb n="26" facs="tcp:19165:18"/> which purpoſe, the Apoſtle af<g ref="char:EOLhyphen"/>firmes in the firſt to the <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> the ſecond chapter: <hi>Wee propound wiſedome to the perfect, a wiſedome no wayes of this world, neither of the princes of this world, which come to nothing: but we pro<g ref="char:EOLhyphen"/>pound the wiſdome of God, which conſiſts in myſterie; that is to ſay, hidden, which God had ordeined before all ages for our glory, which none of the Princes of this world haue knowen; for had they knowen it, they would neuer haue crucified the Lord of Glory. But as it is written, theſe bee things which the eye neuer ſaw, the eare heard, nor that neuer hath entred into the heart of man; but God hath reuealed them
+<pb n="27" facs="tcp:19165:18"/> vnto vs by his Spirit: for the ſpi<g ref="char:EOLhyphen"/>rit ſounds all things, yea, euen the profoundeſt matters of God. For who is he amongſt men, that know<g ref="char:EOLhyphen"/>eth the very things of man, but the ſpirit of man which is in him. No man in like manner knoweth the things of God, but the Spirit of God. Now we haue receiued, not the ſpirit of this world, but the Spirit which is of God, to the end that we might know the things that are of God: for theſe things to it ſeeme follies, and it cannot conceiue them, becauſe they muſt be diſcerned ſpi<g ref="char:EOLhyphen"/>ritually, but the ſpirituall man diſ<g ref="char:EOLhyphen"/>cernes all things.</hi> And in deed man being extreamely vaine in all his cogitations, in his opini<g ref="char:EOLhyphen"/>ons
+<pb n="28" facs="tcp:19165:19"/> erronious, and in his vn<g ref="char:EOLhyphen"/>derſtanding and will clean per<g ref="char:EOLhyphen"/>uerted in matters of Religion; he takes darknes for light, falſe<g ref="char:EOLhyphen"/>hood for truth, and euill for good; no otherwiſe, but euen like to thoſe, whoſe taſte is de<g ref="char:EOLhyphen"/>praued, or ſtomacke alienated, that delight more in groſſe and bad, then in good and whole<g ref="char:EOLhyphen"/>ſome meats; or thoſe who ha<g ref="char:EOLhyphen"/>uing ſome bitterneſſe lying on their tongue, find the very ho<g ref="char:EOLhyphen"/>ny it ſelfe to bee bitter in their mouthes.</p>
+            <p>Moreouer, the Goſpell ma<g ref="char:EOLhyphen"/>nifeſting vnto man his miſerie, his ſinne, his infirmitie, and his impotencie, he puffed vp with
+<pb n="29" facs="tcp:19165:19"/> a conceit, and preſumption of himſelfe, abhorreth ſuch a Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>And which further grieues the ſame alſo, this condemnes ſenſuall, and carnall affections, together with worldly reaſon, commaunding a renunciation of ones ſelfe, and of the world, and man is loath to leaue the loue of theſe things.</p>
+            <p>It ſummons alſo to the en<g ref="char:EOLhyphen"/>durance of perſecution, and di<g ref="char:EOLhyphen"/>uers things that are odious to the fleſh: ſo that affecting to liue at his eaſe, hee expels and driues away ſuch a Goſpell, which diſturbes his worldly repoſe, and the enioyance of his
+<pb n="30" facs="tcp:19165:20"/> delights. Now, though the Lord hath abſolute power o<g ref="char:EOLhyphen"/>uer all creatures, yet did hee not aboliſh this hatred of the world againſt the faithfull, from whence he workes ma<g ref="char:EOLhyphen"/>ny benefites for our good: for it is like a barre or rayle, which ſeparates vs from the world, and the vices thereof. For if the world did not hate vs, but rather loued vs, what would come of it, but an adherence and confirmation of our ſelues to it, and ſo to be infected with the contagion thereof? where<g ref="char:EOLhyphen"/>as hating vs, wee are thereby conſtrained to withdraw our hearts, and to alter our affecti<g ref="char:EOLhyphen"/>ons
+<pb n="31" facs="tcp:19165:20"/> from it, that we may bee preſerued from the corrupti<g ref="char:EOLhyphen"/>ons thereof, and aſpire to a better eſtate, then that of the world. While <hi>Iacob</hi> beheld the affable viſage of <hi>Laban,</hi> hee tooke delight in it: but when <hi>Laban</hi> chaunged his Counte<g ref="char:EOLhyphen"/>nance, then hee ſpake of retur<g ref="char:EOLhyphen"/>ning into his Countrey of <hi>Ca<g ref="char:EOLhyphen"/>naan.</hi> While the children of <hi>Iſrael</hi> were not hated of the Egyptians, they dwelt willing<g ref="char:EOLhyphen"/>ly in Egypt: but after they came to bee hated, and ill in<g ref="char:EOLhyphen"/>treated, they had a deſire to de<g ref="char:EOLhyphen"/>part, to poſſeſſe the land of Promiſe. While the world ſmiles vpon vs, wee returne
+<pb n="32" facs="tcp:19165:21"/> reciprocall contentment to it: but when it ſets countenance againſt vs, and makes vs feele the ſenſible effects of her ha<g ref="char:EOLhyphen"/>tred, then wee call to minde, and deſire our celeſtiall <hi>Cana<g ref="char:EOLhyphen"/>an,</hi> whereof God hath pro<g ref="char:EOLhyphen"/>miſed to vs a full poſſeſsion.</p>
+            <p>Furthermore, God makes vſe of the worlds hatred, as of a whip wherewith to ſcourge vs, when we flie out too farre, and abandon our ſelues to the corruptions of the world. For then God looſeth the reines to this hatred, and permits them the execution of their malici<g ref="char:EOLhyphen"/>ous deſignes, as in this trou<g ref="char:EOLhyphen"/>bleſome time we haue had ex<g ref="char:EOLhyphen"/>perience,
+<pb n="33" facs="tcp:19165:21"/> through the wonder<g ref="char:EOLhyphen"/>full exceſſe of our ſinnes and tranſgreſsions.</p>
+            <p>Beſides, this hatred is a pro<g ref="char:EOLhyphen"/>per meanes whereby to exer<g ref="char:EOLhyphen"/>ciſe our vertue and conſtancie in the tryall of our Faith, Pa<g ref="char:EOLhyphen"/>tience, Charitie, Perſeuerance, and Benignitie. It is alſo a pro<g ref="char:EOLhyphen"/>per ſubiect to vs of ſpirituall vi<g ref="char:EOLhyphen"/>ctory; for where can any victo<g ref="char:EOLhyphen"/>ry be without combate, any combate without oppoſition, any oppoſition without an ad<g ref="char:EOLhyphen"/>uerſary, or any aduerſary with<g ref="char:EOLhyphen"/>out hatred? The hatred of the world muſt erect vnto vs ſpi<g ref="char:EOLhyphen"/>rituall trophees and tryumphs: &amp; the purple of our glory muſt
+<pb n="34" facs="tcp:19165:22"/> be of a more luſtrous and re<g ref="char:EOLhyphen"/>ſplendant die, by the effuſion of our owne blood.</p>
+            <p>For if the Church were not hated of the world, what won<g ref="char:EOLhyphen"/>der were it, though it ſubſiſted, and perſiſted in the world, ſur<g ref="char:EOLhyphen"/>mounting and trampling it vn<g ref="char:EOLhyphen"/>der? and how ſhould we come to acknowledg the miraculous ayd &amp; ſuccor of God, the depth of his prouidence, power, and protection? Should we aſcribe that to our ſelues, which pro<g ref="char:EOLhyphen"/>ceeds meerly from him? &amp; take that to our owne happineſſe, which is deriued immediately from his grace? But when <hi>God</hi> works a ſubſiſte<g ref="char:cmbAbbrStroke">̄</g>ce to his church
+<pb n="35" facs="tcp:19165:22"/> in the very mids of al the worlds hatred, it is no leſſe to be won<g ref="char:EOLhyphen"/>dred at, then when it was preſer<g ref="char:EOLhyphen"/>ued in the midſt of <hi>Egypt</hi> &amp; <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> among the moſt truculent and bloudy aduerſaries ſhe had: and as when ſhee was retyred within the arke, ſhe was ſecured amidſt the waues, winds, tem<g ref="char:EOLhyphen"/>peſts, and ſtormes, within a flo<g ref="char:EOLhyphen"/>ting and fraile reſidence. And if it be an admirable thing, that this Vniuers ſhould be maintained, being inuironed with ſuch a contrarietie of elements, ſurely it yeelds no leſſe cauſe of aſtoniſh<g ref="char:EOLhyphen"/>ment, that God ſtill preſerues his Church in the midſt of hatred, contradictions and worldly aſ<g ref="char:EOLhyphen"/>ſaults.</p>
+            <pb n="36" facs="tcp:19165:23"/>
+            <p>Yea, the words of our Sauiour enioyne vs to this obſeruation, that we ſhould be ſo farre from flattering the world, or ſeeking the approbation thereof in any poynt that toucheth &amp; concerns religion, that cleane contrary we ought to haue it in continuall iealouſie and ſuſpition. And be<g ref="char:EOLhyphen"/>ſides this, it is not proper to the church to be applauded or exal<g ref="char:EOLhyphen"/>ted of the world, but rather to be moleſted and perſecuted; and the peculiar property of the chil<g ref="char:EOLhyphen"/>dren of the world, as the Deuill their father, is to hate; whereas the property of the children of <hi>God</hi> is to loue; the whole law of <hi>God</hi> being comprehended in this
+<pb n="37" facs="tcp:19165:23"/> one word, which is, <hi>To loue God, and our Neighbour.</hi> From whence you may clearely diſcerne how far remote thoſe of the <hi>Romane</hi> church are from <hi>Chriſtianitie,</hi> be<g ref="char:EOLhyphen"/>ing ſtuffed with paſsion in all their cenſures, &amp; with hatred in their deſigns againſt vs, reputing themſelues the more zealous <hi>Ca<g ref="char:EOLhyphen"/>tholickes,</hi> in that they hate vs, and their charities likewiſe towards vs, being extreamly cruel &amp; hard hearted: for out of the loue they bear vs, they put vs to death, they perſecute and burne vs, out of a loue to our ſaluation: whereas we on the contrary, ſeeke peace and concord with them, ſo far as the duties of religion, or ciuility
+<pb n="38" facs="tcp:19165:24"/> in conuerſation may permit. But if <hi>Chriſt,</hi> thogh he were glorious and omnipotent, ſuffred himſelf to be hated of the world, and of the enemies to his <hi>Goſpell,</hi> let vs learne to admire, and imitate his patience &amp; clemency. And when the world crowned him with thorns, can we look to be crow<g ref="char:EOLhyphen"/>ned with flowers? If they cruci<g ref="char:EOLhyphen"/>fied him, will they glorifie vs? we affect conformity with him in his beatitude, ſhall we diſdain to follow him in his perſecuti<g ref="char:EOLhyphen"/>ons? And whereas the name of <hi>Chriſt</hi> is ſo holy, his cauſe ſo iuſt, and our profeſsion ſo authen<g ref="char:EOLhyphen"/>tick, what greater honor can be conferred vpon vs, then to ſuffer
+<pb n="39" facs="tcp:19165:24"/> for ſo worthy a cauſe? Like vn<g ref="char:EOLhyphen"/>to the Apoſtles, we muſt reioyce that wee are found worthy to ſuffer for the name of <hi>Chriſt,</hi> and that with S. <hi>Paul,</hi> we may vaunt and glory in our tribulations.</p>
+            <p>For beſides the honour we re<g ref="char:EOLhyphen"/>ceiue in ſuffring for the name of <hi>Chriſt,</hi> the reward wee expect therefrom is incomparable: <hi>For he that perſeuers to the end, ſhall bee ſaued.</hi> It is not ſaid, he that hates, that returnes like for like, that ſeeks reuenge, <hi>but he that endures:</hi> which is as much as to ſay, that perſeuers, that ſuffers, that vnder<g ref="char:EOLhyphen"/>goes; for if there were no further queſtion, but of iuſt repelling of an iniury, many wicked men
+<pb n="40" facs="tcp:19165:25"/> might haue as great a part in ſal<g ref="char:EOLhyphen"/>uation, as the honeſteſt men that are. Moreouer, <hi>Chriſt</hi> will haue his <hi>Goſpell</hi> auerred, not onely by the voice, but euen by the croſſes and afflictions of the faithfull: for then onely we manifeſt our firm belief, when the torme<g ref="char:cmbAbbrStroke">̄</g>ts of the world cannot ſhake our cre<g ref="char:EOLhyphen"/>dulitie, nor the profeſsion therof which we make. What more in<g ref="char:EOLhyphen"/>fallible teſtimony can we yeeld to the word of <hi>Chriſt,</hi> then by our indurances? what more au<g ref="char:EOLhyphen"/>thenticke ſubſcription, then our blood? what more ſure ſeale the<g ref="char:cmbAbbrStroke">̄</g> our death? what more ſolemne ſatisfaction, then the ſacrifice of our bodies? In this warfare, he
+<pb n="41" facs="tcp:19165:25"/> performes moſt of a man, that vtters the leaſt part of a man; and thereunto we are ſummoned, rather to ſuffer, then to act or ex<g ref="char:EOLhyphen"/>ecute.</p>
+            <p>The very words of the text are herein more remarkable, in that they properly inferre the ſuſtai<g ref="char:EOLhyphen"/>ning of a heauy burden, or elſe ſome aſſault or hot combate: all which implies, how ſuch endu<g ref="char:EOLhyphen"/>rances for the name of <hi>Chriſt,</hi> are both hard and heauy. They are intimated to be no leſſe in the word of the croſſe, which was a marueilous painful torment; and by the burning furnace, wherein we are tried and purified, as gold and ſiluer is in the fire: ſo that if
+<pb n="42" facs="tcp:19165:26"/> we mean to make profeſsion of the name of <hi>Chriſt,</hi> we muſt bee prepard &amp; reſolued not only for light &amp; eaſie temptations, but for thoſe moſt extreme and terrible.</p>
+            <p>And becauſe <hi>Ieſus Chriſt</hi> ſaith, <hi>Hee that perſeuers, or endures,</hi> hee giues vs heerein to vnderſtand, how it is not enough for vs to ſuſtain one kind of affliction; but generally and without excepti<g ref="char:EOLhyphen"/>on, al thoſe wherwith it pleaſeth <hi>God</hi> to examine and try vs: for ſome wold willingly paſſe ouer a little contempt and ſcorne, but not an open ignomie: others, the loſſe of goods, but not of their liues; but without reſerua<g ref="char:EOLhyphen"/>tion or exception of any trialls,
+<pb n="43" facs="tcp:19165:26"/> we muſt perſeuere and ſuffer to the end.</p>
+            <p>This word alſo ſignifies to ſuf<g ref="char:EOLhyphen"/>fer with courage and magnimi<g ref="char:EOLhyphen"/>ty: for many indure, which can not bee ſaid to ſuffer, being van<g ref="char:EOLhyphen"/>quiſhed and ouercome, yea, euen ouerwhelmed with the burden, being ouercome with the vio<g ref="char:EOLhyphen"/>lence of the temptation, or of the contrary ſhocke, and force. He therefore is properly ſaid to ſu<g ref="char:EOLhyphen"/>ſtaine or ſuffer, that ſupports and endures, without abatement of his courage. And therefore pati<g ref="char:EOLhyphen"/>ence is here recommended vnto vs, one of the moſt neceſſary ver<g ref="char:EOLhyphen"/>tues for a <hi>Chriſtian,</hi> for it helps to preſerue all the others, which
+<pb n="44" facs="tcp:19165:27"/> without this would faile, and prooue defectiue. It is patience that bridleth our affections, ap<g ref="char:EOLhyphen"/>peaſeth our paſsions, moderates our violences, ſwaies ouer our temptations, reduceth errant rea<g ref="char:EOLhyphen"/>ſon into the right way, eſtabliſh<g ref="char:EOLhyphen"/>eth the ſoule in her proper ſeat &amp; reſidence, and confirmes her in her offices. There is not a greater miſery in the world, then not to haue patience in time of miſery: without patience the leaſt in<g ref="char:EOLhyphen"/>conueniences are inſupportable, &amp; with patience, thoſe moſt ex<g ref="char:EOLhyphen"/>treme made light and eaſie. And as the pearle in durt, cauſeth it's beauty to appeare; ſo a patient man in aduerſity, makes his ver<g ref="char:EOLhyphen"/>tue to ſhine and appeare.</p>
+            <pb n="45" facs="tcp:19165:27"/>
+            <p>But in that excellent beginnings are altogether vnprofitable with out a finall proſecution, <hi>Christ</hi> ſaith not ſimply, <hi>He that endures,</hi> but he adds, <hi>euen to the end.</hi> For to what purpoſe is it to haue begun a work well, and then to giue it ouer? to haue run wel, and then lye downe in the midſt of the race? to haue fought at firſt vali<g ref="char:EOLhyphen"/>antly, and cowardly at laſt to yeeld? to haue paſſed the danger of the waues, of the tempeſts, of gulfes, of rocks, and of Pirates, if we periſh hard by our Port, and ſink within the channel? wher<g ref="char:EOLhyphen"/>fore we muſt adde perſeuerance vnto patience, which is the end &amp; the accompliſhment, both of
+<pb n="46" facs="tcp:19165:28"/> patience, &amp; all other vertues. For what comes of patience with<g ref="char:EOLhyphen"/>out perſeuerance, but a ſhameful reuolt? and what honor ſhal the other vertues haue, except perſe<g ref="char:EOLhyphen"/>uerance crowne them, which conducting them to their laſt period, makes them victorious and triumphant: wherefore let vs ſuſtaine, euen to the end.</p>
+            <p>This end is chiefly that of affli<g ref="char:EOLhyphen"/>ctions, and not ſuch an end as the ſenſe or feeling of our fleſh, and our own proper affections could deſire; but ſuch as it pleaſeth <hi>God</hi> to giue vs. For it is not lawfull for vs to ſhake off our croſſe, nor to ſhrinke from vnder the bur<g ref="char:EOLhyphen"/>den which <hi>God</hi> layeth on vs, but
+<pb n="47" facs="tcp:19165:28"/> reſolued, vndergoing the ſame, we muſt attend, while <hi>God</hi> diſ<g ref="char:EOLhyphen"/>charge vs thereof.</p>
+            <p>Secondly, by this end is vnder<g ref="char:EOLhyphen"/>ſtood the period of our temporal life; for it is not enough to haue ſuſtained for a long time, wee muſt ſupport euen to the houre of death, which is the coronation of our life. And certainly, in that the end of this life is ſhort, and the number of our dayes cut off; would it not be a wonderful co<g ref="char:EOLhyphen"/>wardiſe, if we ſhould not perſe<g ref="char:EOLhyphen"/>uer, and endure to the end?</p>
+            <p>But how can we do this, when our infirmities are ſo great, and our indurances ſo difficult? In the firſt place this muſt be done
+<pb n="48" facs="tcp:19165:29"/> by a ſerious renunciation of our ſelues, and of all other earthly things, which wilbe of no pow<g ref="char:EOLhyphen"/>er nor force to ſhake vs, if wee contemne them, &amp; be abſolutely dead to the world. Next of al, by a conſtant faith in <hi>God</hi> and in his word, which aſſures vs, that his ſpirit will eaſe in his behalfe our debilities, &amp; his power will take place in our infirmities, and hee will not ſuffer vs to be tempted aboue our ſtrength, but hee will renew our force, and giues vs a good &amp; happy iſſue of our temp<g ref="char:EOLhyphen"/>tations. Finally, by zealous and continuall prayers vnto <hi>God,</hi> of who<g ref="char:cmbAbbrStroke">̄</g> they ſhall be heard, as he in his wiſdom ſhall find it moſt ex<g ref="char:EOLhyphen"/>pedient
+<pb n="49" facs="tcp:19165:29"/> for his glory, and our ſal<g ref="char:EOLhyphen"/>uation: for prayer does fortifie faith, it ſupports hope, inflames charitie, confirmes patience, en<g ref="char:EOLhyphen"/>creaſeth al other vertues; it expels ſadnes, baniſheth feare, comforts afflictions, eaſeth vexations, mol<g ref="char:EOLhyphen"/>lifies torments, reneweth forces, makes the courage inuincible, it ſurmounts temptations, giues vi<g ref="char:EOLhyphen"/>ctory to al oppoſit aſſaults, &amp; re<g ref="char:EOLhyphen"/>medy to al inconueniences. Why ſhould we then doubt, or what need we feare, relying vpon ſuch puiſſant ayds, and being further encouraged by ſo faire a recom<g ref="char:EOLhyphen"/>pence, as that of ſaluation. For, <hi>whoſoeuer perſeuers to the end, ſhall be ſaued.</hi> This promiſe is not like
+<pb n="50" facs="tcp:19165:30"/> to thoſe which men make one to another, or captains to ſouldiers, which oftentimes prooue fru<g ref="char:EOLhyphen"/>ſtrat without any effect, or by the death of ſouldiers, &amp; captains, or els for want of power and good will. None of theſe things can make void or fruſtrat the promi<g ref="char:EOLhyphen"/>ſes of <hi>Chriſt,</hi> to them that perſeuer and indure to the end: not death in our owne perſons; for it leads vs to life; not death in the perſon of <hi>Chriſt,</hi> for it is immortall; not want of power, for he is almigh<g ref="char:EOLhyphen"/>tie; nor of good affection, for he hath ſuffered death for vs, teſtify<g ref="char:EOLhyphen"/>ing therein an infinite loue to<g ref="char:EOLhyphen"/>ward vs. In a word we muſt not call in queſtion the verity of his word; for that is infallible.</p>
+            <pb n="51" facs="tcp:19165:30"/>
+            <p>Furthermore, this promiſe is not of weake or ſlight importance; for it intimates vnto vs a deliue<g ref="char:EOLhyphen"/>rance from an extreame miſerie, which is, from eternal death and damnation; to the horror wher<g ref="char:EOLhyphen"/>of we are naturally ſubiect, and from which it hath pleaſed the Lord to redeeme vs, out of his wonderful goodnes and mercy: for if men reioyce ſo much for e<g ref="char:EOLhyphen"/>ſcaping ſome eminent or great peril, or for being preſerued a lit<g ref="char:EOLhyphen"/>tle while from death, which ne<g ref="char:EOLhyphen"/>uertheleſſe is ineuitable, what a ioy ſhould poſſeſſe vs for our li<g ref="char:EOLhyphen"/>berty, and eſcape from eternall death and perdition, and to bee preſerued from the ſame for e<g ref="char:EOLhyphen"/>uer,
+<pb n="52" facs="tcp:19165:31"/> conſidring the ſmal number of thoſe that ſhall be ſaued, in re<g ref="char:EOLhyphen"/>ſpect of them that ſhall periſh.</p>
+            <p>Wheras vnto this benefit, there is alſo annexed an aſſured poſſeſ<g ref="char:EOLhyphen"/>ſion of eternall Beatitude, the which <hi>Chriſt</hi> alſo inferrs, ſaying, <hi>Whoſoeuer perſeuers to the end, ſhall be ſaued.</hi> If he promiſed a life of many hundreds or thouſands of yeres in this world, men would make great eſteem of it, eſpecial<g ref="char:EOLhyphen"/>ly when it were exempted from all moleſtations, ſadneſſe, griefe, infirmities, &amp; all encombrances; but accompanied with ioy, con<g ref="char:EOLhyphen"/>tentment, health, power, and ſe<g ref="char:EOLhyphen"/>curity of eſtate &amp; condition. But much more alſo, were it magni<g ref="char:EOLhyphen"/>ficent
+<pb n="53" facs="tcp:19165:31"/> and glorious, for the inioy<g ref="char:EOLhyphen"/>ance of great wealth and many dominions of a floriſhing king<g ref="char:EOLhyphen"/>dome, and famous empire, reple<g ref="char:EOLhyphen"/>niſhed with whatſoeuer the eie, the eare, or the heart could wiſh. And <hi>Ieſus Chriſt</hi> promiſeth much more vnto vs the<g ref="char:cmbAbbrStroke">̄</g> all this, ſaying, <hi>He that continues to the end, ſhal be ſaued.</hi> For what can be compara<g ref="char:EOLhyphen"/>ble to this ſaluation, which in all circumſtances, is moſt abſolute and perfect? the place thereof, is heauen; the continuance therof, is eternall; the conſtancy therof, is ſubiect to no mutation; the poſſeſsion ſecure and certain, the nature of its benefits are incor<g ref="char:EOLhyphen"/>ruptible, incomprehenſible, and
+<pb n="54" facs="tcp:19165:32"/> diuine; their number, infinite; their degrees, eminent and ſu<g ref="char:EOLhyphen"/>preme; their meaſure, immeaſu<g ref="char:EOLhyphen"/>rable; and their puritie, without taint of euill or corruption: for they are all abſolutely perfit, ho<g ref="char:EOLhyphen"/>ly, and bleſſed of <hi>God;</hi> the peace thereof is without moleſtation, the glory thereof, is the glory of the <hi>Lord God</hi> almighty. How dif<g ref="char:EOLhyphen"/>ferent then is this ſaluation, from a fraile and tranſitory life, which is nothing but a ſhadow, deuou<g ref="char:EOLhyphen"/>red &amp; ſwallowed vp in miſeries, and mortality? A life, which hu<g ref="char:EOLhyphen"/>mors, griefes, and inflamations conſume &amp; extenuat, which the aire makes ſick, which meats ſur<g ref="char:EOLhyphen"/>charge, which abſtinence weak<g ref="char:EOLhyphen"/>neth,
+<pb n="55" facs="tcp:19165:32"/> which ſorrowes waſte, which paſſions diſturbe, which cares do wrinkle, which pouer<g ref="char:EOLhyphen"/>tie abaſeth, which old age bends and makes crooked, which tor<g ref="char:EOLhyphen"/>ments ouerwhelm; and which a lamentable death doth finiſh; a life aſſayled with a deluge of e<g ref="char:EOLhyphen"/>uils, wherin there is no firme ſta<g ref="char:EOLhyphen"/>tion, where we can ſcarcely ſee one poore branch of the flouri<g ref="char:EOLhyphen"/>ſhing Oliue, wherupon the fear<g ref="char:EOLhyphen"/>full <hi>Doue</hi> may for a moment fa<g ref="char:EOLhyphen"/>ſten the foot. A life affording the ſame reſidence allotted to vn<g ref="char:EOLhyphen"/>clean beaſts, and the ſame light, which the very wormes of the earth enioy. How far, I ſay, more excellent is the ſtate of ſaluation,
+<pb n="56" facs="tcp:19165:33"/> then this preſent momentary life where no neceſsities preſſe, no annoyances diſturbe, no appre<g ref="char:EOLhyphen"/>henſions moleſt, no miſeries ap<g ref="char:EOLhyphen"/>proch or draw neer vnto, but re<g ref="char:EOLhyphen"/>pleniſhed with happineſse and beatitude; where life is without death, ioy without ſadnes, youth without old age, peace without trouble, light without darknes, abundance without defect, good without euill, ſecurity without danger, &amp; felicity without end.</p>
+            <p>This ſaluation is ſo much the more to be deſired, in that it co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pleatly comprehends the happy eſtate of our whole perſons; that is to ſay, both of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſoule &amp; bo<g ref="char:EOLhyphen"/>dy, the which <hi>Chriſt</hi> ſignifies in
+<pb n="57" facs="tcp:19165:33"/> ſaying, <hi>He that continues to the end ſhalbe ſaued.</hi> For otherwiſe, how can we be ſaid to be ſaued, if we might alſo bee ſaid to be loſt? and <hi>Chriſt</hi> comming to ſaue that which was loſt; and abſolute &amp; entire man being loſt, muſt he not likewiſe in his intire and ab<g ref="char:EOLhyphen"/>ſolute eſtate be ſaued? For what a defect were this, when <hi>Christ</hi> hauing aſſumed our entire per<g ref="char:EOLhyphen"/>ſon, hee ſhould haue redeemed but the moity therof? If he were but our half Sauiour, and that by him we were but ſaued in part? And who doth not ſee, that the Iuſtice of <hi>God</hi> requires the pre<g ref="char:EOLhyphen"/>ſentation of whole man; and as in the one or other part he hath
+<pb n="58" facs="tcp:19165:34"/> participated of good or euill, he hath his ſhare in the retribution, both in the one, and other part?</p>
+            <p>But how ſhould this come to paſse, that this very body diſsol<g ref="char:EOLhyphen"/>ued to aſhes, atomes, and ele<g ref="char:EOLhyphen"/>ments, ſhould returne to it's for<g ref="char:EOLhyphen"/>mer frame and compoſition? O man, he that reuiueth the dead, &amp; that calleth things which are not, as if they were, cannot hee giue life after death, and repeale it from ruine and deſtruction? If he created it when it was not, can he not repair it when it hath once bin? eſpecially when crea<g ref="char:EOLhyphen"/>tion is a greater work then repa<g ref="char:EOLhyphen"/>ration, &amp; to make, more then to reſtore. If he hath made of earth
+<pb n="59" facs="tcp:19165:34"/> fleſh, and of fleſh, earth; can hee not of earth, reduce it to be fleſh again? for to him whoſe wil was to create, can any thing be diffi<g ref="char:EOLhyphen"/>cult or vnpoſsible? though this worke exceed beyond meaſure the order and power of <hi>Nature,</hi> yet do not think that it ſurmou<g ref="char:cmbAbbrStroke">̄</g>ts the power of the <hi>Author of nature,</hi> who by a vertue and power ſu<g ref="char:EOLhyphen"/>pernatural, gaue being to <hi>Nature;</hi> and who can when he pleaſeth, exceed the bounds of nature, tho<g ref="char:EOLhyphen"/>row the infinitie of his power, which is comprehended within no bonds nor limits. And if thou doſt but contemplate <hi>Nature</hi> her ſelfe, and the ſeueral parts of this world, high and low, maiſt thou
+<pb n="60" facs="tcp:19165:35"/> not diſcern examples of the great power of <hi>God,</hi> which may be vn<g ref="char:EOLhyphen"/>to thee as Images and figures of thy reſtauration? For, but lift vp thy eyes to heauen, mayſt thou not ſee the <hi>Sun,</hi> who after he hath run his courſe, and is ſpent after the maner of a death in the weſt (no otherwiſe then as if it were extinguiſhed) he returnes againe to appeare, &amp; ſeems raiſed vp in the Eaſt, with the reſplendencie of his former luſtre, the orname<g ref="char:cmbAbbrStroke">̄</g>t of his beames, and the brightnes of his light? and by his alter<g ref="char:EOLhyphen"/>natiue abſence and preſence, doſt thou not ſee the day dye in the night, being buried in all parts in darknes, &amp; then again to renew
+<pb n="61" facs="tcp:19165:35"/> and reuiue, with clarity, beauty, grace, luſtre, and ornament, cau<g ref="char:EOLhyphen"/>ſing his death to die, which is the night, and opening its ſepulchre, which is the darknes, liuing till night by a continual and indifa<g ref="char:EOLhyphen"/>tigable viciſsitude, ſucceeds it, &amp; brings it change, giuing an end to it, as before it receiued light from the ſame. And do ye not behold the innumerable company of lights celeſtial relightned, which before ſeem'd quite put out, the twinckling of <hi>Stars</hi> reuiued, the light of the <hi>Planets</hi> renued, &amp; the wanes and increaſes of the <hi>Moone</hi> reeſtabliſhed? Moreouer, by the remotion or approch of the <hi>Sun,</hi> who does not perceiue al ſeaſons
+<pb n="62" facs="tcp:19165:36"/> to returne with their qualities, forces, and vertues? <hi>Winter</hi> with his colds, humidities, and raines; the <hi>Spring</hi> with its beauty, ſweet<g ref="char:EOLhyphen"/>nes, &amp; flowers; <hi>Summer</hi> with its heat, ſiccitie, and drought? who likewiſe diſcerne not the leafeles trees to reaſſume their verdure and ornament, dead plants to re<g ref="char:EOLhyphen"/>ſprout, withered herbs to reflo<g ref="char:EOLhyphen"/>riſh, and corrupt ſeeds to reuiue: <hi>for that which thou ſoweſt ca<g ref="char:cmbAbbrStroke">̄</g>not quic<g ref="char:EOLhyphen"/>ken before it firſt die.</hi>
+               <note place="margin">Cor. 15</note> A moſt won<g ref="char:EOLhyphen"/>derful thing! that <hi>Nature</hi> ſhould deſtroy to preſerue; take away, to reſtore; ruinate, to maintain; cor<g ref="char:EOLhyphen"/>rupt, to reuiue; and conſume, to augment; and that things by her defeated, ſhold be reſtor'd, made
+<pb n="63" facs="tcp:19165:36"/> more beautifull and abundant: the which thou maiſt euidently ſee in the wheat, which being laid in the parts of the earth, as in ſepulchres or graues, after it hath putrified, it coms vp again much more rich and plentiful then be<g ref="char:EOLhyphen"/>fore. And to ſay truth, the condi<g ref="char:EOLhyphen"/>tion of all things in this Vniuers, is renued by their loſſe, and ſuffer a falling away for their further reparation: ſo that all theſe ordi<g ref="char:EOLhyphen"/>nary reuolutions, theſe mutable &amp; rowling orders of things, are nothing but teſtimonies, and in<g ref="char:EOLhyphen"/>timations vnto vs, and as it were a delineation, and draught of the <hi>Reſurrection of the dead;</hi> the won<g ref="char:EOLhyphen"/>der whereof <hi>God</hi> hath rather ex<g ref="char:EOLhyphen"/>preſt
+<pb n="64" facs="tcp:19165:37"/> in his works, then declared by his Miniſters, by his power, rather then by his word; and by <hi>Nature,</hi> rather then by <hi>Propheſie;</hi> that ſo thou mighteſt be made more fit for the doctrin of <hi>Faith,</hi> being inſtructed by the experi<g ref="char:EOLhyphen"/>ence of this world, and ſo there<g ref="char:EOLhyphen"/>upon they ſhould reſolue and firmly beleeue, that he will like<g ref="char:EOLhyphen"/>wiſe reeſtabliſh thy perſon<g ref="char:punc">▪</g> for as thou ſeeſt, hee reeſtabliſheth all things.</p>
+            <p>Wherfore then, ſhould we fear, either the deſtruction, or endu<g ref="char:EOLhyphen"/>rances of this body, ſeeing it muſt be reſtor'd, yea into a glorious e<g ref="char:EOLhyphen"/>ſtate, conformable to the body of <hi>Ieſus Chriſt?</hi> why ſhould we fear
+<pb n="65" facs="tcp:19165:37"/> the hatred of the world, which cannot exceed the reſpects of this world? nor bee any obſtacle to the accompliſhment of our ſal<g ref="char:EOLhyphen"/>uation? Let vs perſeuer vnto the end: <hi>for he that ſuffers to the ende, ſhall bee ſaued.</hi> So as there is no temptation that can ſhake our conſtancy, neither the cruelties of oppreſsion, nor the perplexi<g ref="char:EOLhyphen"/>ties of pain &amp; anguiſh, nor the ri<g ref="char:EOLhyphen"/>gor of perſecution, nor the hard<g ref="char:EOLhyphen"/>nes of famine, neither the igno<g ref="char:EOLhyphen"/>miny of nakednes, or the horror of perill, neither the furie of the ſword, nor the miſeries of life, neither the violence of death, nor the force of all the creatures ioyn'd in one.</p>
+            <pb n="66" facs="tcp:19165:38"/>
+            <p>But by reaſon that in this gene<g ref="char:EOLhyphen"/>ral hatred of all men againſt the <hi>Church,</hi> we perceiue the wrath of <hi>God</hi> kindled againſt vs, becauſe of the extremity of our ſins, let vs acknowledge them in their hor<g ref="char:EOLhyphen"/>ror, with a deteſtation, &amp; renun<g ref="char:EOLhyphen"/>ciation of them: let vs lament with a profound contrition, in ſighs, and teares, imploring <hi>Gods</hi> mercy, to the end that his indig<g ref="char:EOLhyphen"/>nation ceaſing, he may ſtay the power and fury of ſuch as hate vs. And let vs be co<g ref="char:cmbAbbrStroke">̄</g>forted, in that if we are hated of the world, we are beloued of <hi>God;</hi> &amp; that as we cannot loue <hi>God</hi> and the world together, ſo both <hi>God</hi> and the world cannot ioyntly loue vs.</p>
+            <pb n="67" facs="tcp:19165:38"/>
+            <p>If we ought to endure for the name of <hi>Chriſt,</hi> it is freely giuen vs, not onely to beleeue in him, but alſo to ſuffer for him: thogh men make war vpon vs, yet can they not take from vs the peace of <hi>God,</hi> nor the peace of our con<g ref="char:EOLhyphen"/>ſciences. If we be depriu'd of our earthly commodities, yet ſhall we not be exempted from the treaſures of heauen: we may take ioyfully the being ſtript of our goods, and chuſe rather to be af<g ref="char:EOLhyphen"/>flicted with the people of <hi>God,</hi> then to enioy for a time, the de<g ref="char:EOLhyphen"/>lights of ſinne, eſteeming oppro<g ref="char:EOLhyphen"/>bries for <hi>Chriſt,</hi> greater riches, the<g ref="char:cmbAbbrStroke">̄</g> the treaſures of <hi>Egypt,</hi> in reſpect of their renumeration. If we ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="68" facs="tcp:19165:39"/> any loſſe of the body, we ſhal find gain of the ſoule, and that is a good return, when we loſe for to gaine: for in theſe loſſes, the ſpirit profits and purchaſeth in<g ref="char:EOLhyphen"/>comparably more then the fleſh loſeth. If we be put to triall by baniſhment, why all the earth is the <hi>Lords,</hi> and though we ſhould bee diſpearſed into the moſt ſa<g ref="char:EOLhyphen"/>uage Deſarts, yet ſhould we not be ſeparated from <hi>God,</hi> nor loſe the priuiledge of being Citizens in heauen. If moſt violent aduer<g ref="char:EOLhyphen"/>ſities aſſaile vs, the indurances of the time preſent are not compa<g ref="char:EOLhyphen"/>rable to the glory to come. Our light afflictions, which doe but euen paſſe ouer head, produce in
+<pb n="69" facs="tcp:19165:39"/> vs an eternal ioy of a glory ſuper<g ref="char:EOLhyphen"/>excellent. For if in this tranſitory world we ſee a number of men expoſe themſelues to the extrea<g ref="char:EOLhyphen"/>meſt hazards and perils, be it out of a thirſt after glory, deſire of riches, be it for ambitions, quar<g ref="char:EOLhyphen"/>rels, or the wars of their Princes, ſhould wee refuſe to ſuffer for <hi>Gods</hi> cauſe, ſuch things as others ſuffer for meer worldly reſpects? If we be vrg'd to impriſonment, the Spirit of <hi>God</hi> will enter in with vs, to giue vs conſolation, and to reſide with vs, and in vs. And though the priſon were like the deuils houſe, yet by the ſpirit of our <hi>God,</hi> and by the efficacy of our prayers, we may be able to
+<pb n="70" facs="tcp:19165:40"/> aſſault and ſubdue him in his own houſe: we ſhall put him to flight, to the greateſt profundi<g ref="char:EOLhyphen"/>ties of his depths, as an Adder, or Snake, who being purſued, be<g ref="char:EOLhyphen"/>takes himſelf to his hole &amp; con<g ref="char:EOLhyphen"/>cauity, keepes himſelfe in, folds himſelfe vp in his twiſts, hides himſelfe, and dares not appeare: we ſhall ſend him from the pri<g ref="char:EOLhyphen"/>ſon to his hell, from the gaole to his place of torments. And it need not be hard for vs, to be ſe<g ref="char:EOLhyphen"/>queſtred from the things of this world, ſeeing we are but ſtran<g ref="char:EOLhyphen"/>gers to the world, &amp; in that the world is worſe then a priſon; for the priſon hath no ſuch darknes in it, as that of the world, which
+<pb n="71" facs="tcp:19165:40"/> blindes mens vnderſtandings; neither are there any ſuch ſtrong bonds, as thoſe of the world, which doe ſo hamper the ſoule; nor ſo euill ſents as the odors of the world, which are ſtinking affections, and infected corrupti<g ref="char:EOLhyphen"/>ons, that defile both heauen and earth. It holds not ſo many wic<g ref="char:EOLhyphen"/>ked ones within the precincts of it, as the world, which compre<g ref="char:EOLhyphen"/>hends them all, neither expects ſuch terrible Iudgement as the world, which ſhal heare the ſen<g ref="char:EOLhyphen"/>tence of eternall condemnation. To conclude, if the priſon hath darkneſſe, our ſelues be light in <hi>God;</hi> if bonds, we are free in the <hi>Lord;</hi> if odious ſtinches, we are a
+<pb n="72" facs="tcp:19165:41"/> good odor to <hi>God,</hi> through <hi>Ieſus Chriſt;</hi> if we are found guilty, we are iuſtified before <hi>God;</hi> if the Iudge bee there ready to giue iudgement, wee ſhall one day iudge as aſſiſtants with <hi>Chriſt,</hi> &amp; Iudges of all the world in like manner. For if a <hi>Chriſtian</hi> out of priſon renounceth the world, how much being in priſon, ought he to doe the like? And what matters it, what hee is in this world, ſeeing he is out of the world? And thogh his be enclo<g ref="char:EOLhyphen"/>ſed within a priſon, for are not all things open and at liberty to the Spirit? who wil not forbear to breake through roofes, or vaults, when in ſpirit hee may
+<pb n="73" facs="tcp:19165:41"/> take his free carriere, glide vp to heauen, and make his happy ſal<g ref="char:EOLhyphen"/>lies euen into Paradiſe? That e<g ref="char:EOLhyphen"/>uen as they that deſcend into a deepe &amp; dark well, they ſee there at all times the ſtars of heauen; ſo likewiſe the faithfull, in the dee<g ref="char:EOLhyphen"/>peſt obſcuritie of the dungeon, faile not with the eyes of faith, to behold the glory of the heauens, &amp; the radiant light of <hi>Gods</hi> coun<g ref="char:EOLhyphen"/>tenance, which brings repleniſh<g ref="char:EOLhyphen"/>ment of ioy: and then queſtion<g ref="char:EOLhyphen"/>les, may a man be ſayd to haue loſt his earthly condition, when the ſpirit is rauiſhed vp into hea<g ref="char:EOLhyphen"/>uen: for the body then hardly feeles any miſery, when its ſoule is with <hi>God,</hi> and conuerſeth with
+<pb n="4" facs="tcp:19165:42"/> the bleſſed. But if in being re<g ref="char:EOLhyphen"/>leaſed out of priſon, we muſt indure death, or martyrdome, <hi>Chriſt will be benefit and gaine, vn<g ref="char:EOLhyphen"/>to vs both in life &amp; death.</hi> 2. <hi>Tim.</hi> 2. If we die with him, we ſhall al<g ref="char:EOLhyphen"/>ſo liue with him; and happy is that death which brings with it life, and opens vnto vs the gate of immortality. And further, it will bee much glory for vs, to ſet together and cyment the Church of <hi>God,</hi> with our blood and aſhes. And if this death be outwardly odious and ignomi<g ref="char:EOLhyphen"/>nious, we do but in it contemne the diſhonour of the world, we being for the name of <hi>Chriſt,</hi> an<g ref="char:EOLhyphen"/>nihilated in worldly honor, cal<g ref="char:EOLhyphen"/>ling
+<pb n="7" facs="tcp:19165:42"/> to mind, how <hi>Chriſt</hi> was firſt crowned with thornes, be<g ref="char:EOLhyphen"/>fore with glory; hee did firſt climb the croſſe before he mou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ted vp into heauen; and nayled therunto between two theeues, before he ſat at the right hand of <hi>God</hi> his Father. If this death be painfull, our ſoule ſhall be victo<g ref="char:EOLhyphen"/>rious ouer all bodily torments, by the diuine vertue of our <hi>Lord,</hi> who out of his deare loue tranſ<g ref="char:EOLhyphen"/>forming vs into himſelfe, will make vs incompatible, euen as he hath done many other zea<g ref="char:EOLhyphen"/>lous &amp; conſtant Martyrs, which haue ſuffred in their bodies, as in ſtrange and different fleſh, who, without aſtoniſhment, beheld
+<pb n="6" facs="tcp:19165:43"/> their bodies, all on a light fire, their entrailes hanging downe, their members burnt off, and fal<g ref="char:EOLhyphen"/>ling downe piece by piece, and their <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iuely fleſh brought to duſt and aſhes. By their heauenly notes, they haue drowned the wind and rumour of the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ames; and by the and our of their zeale, vanquiſhed that of the burning fire, and in the midſt of fire-hot coales, as if it had bin vpon a bed of flowers, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y haue ioyfully exalted their happy and bleſſed ſoules. Whereunto may further be added, that the more cruell &amp; torm<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ting our kind of death is, ſo much more excellent and e<g ref="char:EOLhyphen"/>minent w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e conſtan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of our</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <pb facs="tcp:19165:43"/>
+         </div>
+      </body>
+   </text>
+</TEI>
